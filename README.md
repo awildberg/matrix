@@ -2,7 +2,7 @@
 Implementation of Matrix and Vector Objects in Crystal
 
 ## Progress
-* class Matrix initiated<br>
+* Matrix class initiated
 * row and col functionality implemented
 
 ## todo
